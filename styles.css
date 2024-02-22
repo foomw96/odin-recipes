@@ -1,0 +1,57 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: brown;
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+    border-color: black;
+    font-size: 5rem;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+    font-family: cursive;
+}
+
+h2 {
+    color: navajowhite;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 2rem;
+    border-bottom: 5px ridge black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px double;
+}
+
+h3 {
+    margin-left: 100px;
+    margin-right: 100px;
+    border-bottom: 5px double black;
+}
+
+p, ul, ol {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ul li a {
+    color: moccasin;
+    font-size: 3rem;
+}
+
+#mainmenu {
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px double;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    line-height: 6rem;
+    width: 30%;
+}
